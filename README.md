@@ -9,4 +9,12 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
 
 ## Projects
 
-1.
+##### 1. UFO_Sightings_Analysis
+##### 2. Diwali_Sales_Analysis
+##### 3. Nykaa_Analysis
+##### 4. FLIPKART_ANALYSIS
+##### 5. Titanic-Analysis
+##### 6. Swiggy-Remote-Kitchen
+##### 7. IPL_DATASET
+##### 8. Disney-Plus-Hotstar-Dashboard-Power-BI
+##### 9. E-Comerce-Customer-analysis
