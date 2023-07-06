@@ -18,6 +18,8 @@ Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai 
 ##### 7. IPL_DATASET
 ##### 8. Disney-Plus-Hotstar-Dashboard-Power-BI
 ##### 9. E-Comerce-Customer-analysis
+##### 10.Zomato_Recoomendation_Model
+
 
 
 ![image](https://github.com/Swati-Latta/Swati-Latta/assets/134490572/23370c38-b933-49e9-8117-1d98c0b583a2)
