@@ -47,7 +47,7 @@
 ### 4. Swiggy-Remote-Kitchen
 ### 5. IPL_DATASET
 ### 6. E-Comerce-Customer-analysis
-### 7.Zomato_Recoomendation_Model
+### 7. Zomato_Recoomendation_Model
 
 <br>
 <br>
@@ -56,10 +56,9 @@
 <h2 dir="auto"><a id="user-content--reach-out-to-me-" class="anchor" href="#-reach-out-to-me-" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" style="max-width: 100%;"></a> <strong>Reach Out To Me, Just Click On The Icons Given Below:</strong> </h2>
 
 <p align="center" dir="auto">
-<a href="mailto:upadhyayyash023@gmail.com"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
+<a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
 <a href="https://www.linkedin.com/in/swati-latta-ab7916277/" rel="nofollow"><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
-<a href="https://github.com/Yash-0223"><img src="https://camo.githubusercontent.com/c9de7ec1e54618f8d303a08f58ed31e66323aa28abbb1619c5783bc2735c785e/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/windows/48/000000/github.png" style="max-width: 100%;"></a>
-<a href="https://www.hackerrank.com/upadhyayyash023" rel="nofollow"><img src="https://camo.githubusercontent.com/dea8697850e5e6109164b354bdb17397540dbce064f62e0d537605ac7eb8bb2a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34302f4861636b657252616e6b5f49636f6e2d3130303070782e706e67" width="44" height="44" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" style="max-width: 100%;"></a>
+<a href="https://github.com/Swati-Latta"><img src="https://camo.githubusercontent.com/c9de7ec1e54618f8d303a08f58ed31e66323aa28abbb1619c5783bc2735c785e/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/windows/48/000000/github.png" style="max-width: 100%;"></a>
 </p>
 
 
