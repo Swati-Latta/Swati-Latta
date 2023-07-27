@@ -1,43 +1,4 @@
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e473hvekkmbz2c46ozygekrg3yhu6mpeoh5bynwmkbc&rid=giphy.gif&ct=g" width="280"/>
 </div>
