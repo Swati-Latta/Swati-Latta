@@ -1,13 +1,15 @@
-
-<div id="header" align="center">
-  <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e473hvekkmbz2c46ozygekrg3yhu6mpeoh5bynwmkbc&rid=giphy.gif&ct=g" width="280"/>
-</div>
-
-
 <h1 align = "center">
   Hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Swati Latta.
 </h1>
+<div id="header" align="center">
+  
+ ![image](https://github.com/Swati-Latta/Swati-Latta/assets/134490572/5e865157-5917-422b-8fbf-f712b31ab83f)
+ 
+  </div>
+
+
+
 
 <h3  align = "center">
  <b>Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai Institute. I have a strong background in data analytics and am actively seeking job opportunities in the field. With a Master's degree in Mathematics. I'm well-equipped to take on challenging data analytics projects.</b>
