@@ -78,8 +78,7 @@ Like My Work?
 
 
 
-<h2 dir="auto"><a id="user-content--reach-out-to-me-" class="anchor" href="#-reach-out-to-me-" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" style="max-width: 100%;"></a> <strong>Reach Out To Me, 
-  Just Click On The Icons Given Below:</strong> </h2>
+<h2 dir="auto"><a id="user-content--reach-out-to-me-" class="anchor" href="#-reach-out-to-me-" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" style="max-width: 100%;"></a> Reach Out To Me, Just Click On The Icons Given Below:  </h2>
 
 <p align="center" dir="auto">
 <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
@@ -89,7 +88,7 @@ Like My Work?
 <br>
 <br>
 
-### **Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.**
+### *Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.*
 <br>
 <br>
 
