@@ -88,7 +88,7 @@ Like My Work?
 <br>
 <br>
 
-### *Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.*
+### *Show ❤ by giving ⭐ to my Repositories, at least your star could make someone's day 😄.*
 <br>
 <br>
 
