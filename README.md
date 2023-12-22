@@ -61,6 +61,10 @@
 #### 6. E-Comerce-Customer-analysis
 #### 7. Zomato_Recoomendation_Model
 #### 8. Election_Data_Analysis
+#### 9. Global-Terrorism-Analysis-Dashboard
+#### 10. HR-ANALYSTICS-DASHBOARD
+#### 11. YouTube-Streamer-Analysis
+
 
 <br>
 <br>
