@@ -12,7 +12,7 @@
 
 
 <h3  align = "center">
- <b>Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai Institute. I have a strong background in data analytics and am actively seeking job opportunities in the field. With a Master's degree in Mathematics. I'm well-equipped to take on challenging data analytics projects.</b>
+ <b>Welcome to my GitHub profile! I'm a passionate data analyst aspirant from Masai Institute. I have a strong background in data analytics and I'm actively seeking job opportunities in this field. With a Master's degree in Mathematics. I'm well-equipped to take on challenging data analytics projects.</b>
 </h3>
 
 <br>
