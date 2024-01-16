@@ -32,6 +32,7 @@
 
 
  <h3 align="left">Languages and Tools:</h3>
+ 
  <p align="center" dir="auto">  
     <a href="https://www.python.org" rel="nofollow"> <img src="https://camo.githubusercontent.com/24303cd2424a9a9c092cb6f3108ae66c45d827c3bb8cac57c93c1831c058e43f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/python.png" style="max-width: 100%;"> </a>
     <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/149029be5d632d26129278083a0e1f965fe112b27bb184c0d851a943816a7ee5/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f35302f3030303030302f6d7973716c2d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" style="max-width: 100%;"> </a>
