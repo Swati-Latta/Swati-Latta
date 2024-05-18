@@ -66,6 +66,8 @@
 #### 9. Global-Terrorism-Analysis-Dashboard
 #### 10. HR-ANALYSTICS-DASHBOARD
 #### 11. YouTube-Streamer-Analysis
+#### 12. Uber-Data-Analysis
+#### 13. Weather-Data-Analysis
 
 
 <br>
